@@ -1,0 +1,123 @@
+{
+    "homeheader": {
+        "speciality":"Medical specialty",
+        "searchdoctor":"Find a doctor by specialty",
+        "health-facility": "health facilities",
+        "select-room": "Choose Hospital Clinic",
+        "doctor": "doctor",
+        "select-doctor": "Choose a Good Doctor",
+        "fee": "Examination Package",
+        "check-health": "General health check",
+        "support": "Support",
+        "welcome": "Welcome : "
+    },
+    "banner": {
+        "title1": "MEDICAL PLATFORM",
+        "title2": "COMPREHENSIVE HEALTH CARE",
+        "child1": "specialist examination",
+        "child2": "remote examination",
+        "child3": "general examination",
+        "child4": "medical test",
+        "child5": "mental health",
+        "child6": "dental examination"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Users",
+            "manage-doctor": "Manage DocTor",
+            "manage-admin": "Manage Admin",
+            "crud":"CRUD USer",
+            "crud-redux":"CRUD Redux",
+            "clinic": "Clinic",
+            "manage-clinic": "Manage Clinic",
+            "specialty": "Specialty",
+            "manage-specialty": "Manage Specialty",
+            "handbook": "HandBook",
+            "manage-handbook": "Manage Handbook"
+        },
+        "doctor": {
+            "manage-schedule": "Manage Doctor's Schedule",
+            "manage-patient": "Manage Doctor's Patient"
+        }
+    },
+    "manage-user": {
+        "add": "Add New Users",
+        "email": "Email",
+        "Password": "Password",
+        "first-name": "FirstName",
+        "last-name": "LastName",
+        "phone-number": "PhoneNumber",
+        "address":"Address",
+        "gender":"Gender",
+        "position":"Positions",
+        "role-id": "RoleID",
+        "image":"Image",
+        "save" :"Save User",
+        "edit" : "Save Update"
+    },
+    "homepage": {
+        "outstanding-doctor": "OutStanding Doctors",
+        "more-infor": "More InFo",
+        "specialty-poplular": "Popular Specialization"
+        
+    },
+    "manage-schedule": {
+        "title": "Manage doctor's examination plan",
+        "choose-doctor": "Choose Doctors",
+        "choose-date": "Date Chooses",
+        "save": "Save Infor"
+    },
+    "manage-patient": {
+        "title": "Patient Management of Doctor's Examination",
+        "choose-doctor": "Choose Doctors",
+        "choose-date": "Date Chooses",
+        "save": "Save Infor"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "no-schedule":"No Schedule , Please Choose Another Date !",
+            "choose": "choose ",
+            "book-free": " and book (free)"
+        },
+        "extral-infor-doctor": {
+            "text-address": "ADDRESS OF EXAMINATION",
+            "price": "Examination Price: ",
+            "show-detail": "See details.. ",
+            "payment": "The patient can pay the cost in the form of : ",
+            "hide-price": "Hide Price List"
+        },
+        "booking-modal": {
+            "title": "Information Book an Appointment",
+            "fullName": "First & last name",
+            "phoneNumber": "Phone Number",
+            "email": "Email",
+            "address": "Address",
+            "reason": "Reasons for Examination",
+            "birthday": "Birthday",
+            "gender": "Gender",
+            "btnConfirm": "Confirm",
+            "btnCancel": "Cancel",
+            "priceBooking": "Free Booking",
+            "price": "Price : "
+        }
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "Create Info Doctors",
+            "select-doctor": "Choose Doctor : ",
+            "intro": "introductory information",
+            "add":"Create Infor",
+            "save": "Save Infor",
+            "price": "Price",
+            "payment": "Payment",
+            "province": "Province",
+            "nameClinic": "Clinic's Name",
+            "addressClinic": "Clinic's Address",
+            "note": "Note",
+            "choose": "Choose ...",
+            "specialty": "Select Specialization",
+            "select-clinic": "Choose Clinic.."
+        }
+    } 
+}
